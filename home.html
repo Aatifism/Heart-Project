@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title>VIRTUAL HEART</title>
+
+    <!--div class="container3D">
+      <img src="./images/idhayam.png" alt="Heart" class="heart">
+    </div-->  
+
+    <main>
+      <div id="container3D" style="width: 300px; height: 100px;" alt="Heart" class="heart"> </div>
+    </main> 
+    
+  <link rel="stylesheet" type="text/css" href="./assets/style.css">
+
+</head>
+<body>
+    <h1> HUMAN VIRTUAL HEART </h1>
+    <div><span id="bpmDisplay"style="display: none;">
+    </span></div>
+    
+      <div id="dataContainer">
+
+  <p id="heartRateDisplay">Heart Rate: </p>
+      <p id="systolicDisplay">Systolic: </p>
+      <p id="diastolicDisplay">Diastolic: </p>
+      <p id="oxygenLevelDisplay">Oxygen Level: </p>
+      
+      </div>
+
+
+
+<div class="ecg-container">
+  <h2 class="ecg-heading">ECG Signal</h2>
+  <svg class="ecg-signal" viewBox="0 0 300 200">
+    <!-- <line class="axis-line inverted" x1="0" y1="200" x2="0" y2="0"></line>
+    <line class="axis-line inverted" x1="0" y1="200" x2="300" y2="200"></line>
+    <line class="axis-line" x1="0" y1="0" x2="5" y2="0"></line>
+    <line class="axis-line" x1="300" y1="200" x2="295" y2="200"></line> -->
+    <text class="axis-label" x="-10" y="100" dy="0.35em" text-anchor="end">Amplitude</text>
+    <text class="axis-label" x="305" y="215" dy="0.35em" text-anchor="middle">Time</text>
+  </svg>
+  
+</div>
+<button id="downloadButton">Download ECG</button>
+
+
+
+  <!-- <pre id="output"></pre> -->
+
+<div id="modelContainer"></div>
+
+<!-- <button id="runModelButton">Run Model</button> -->
+
+
+
+
+
+  <script src="./js/script.js"></script>
+  <script type="module" src="./js/main.js"></script>
+  <!-- <script src="./js/bp.js"></script> -->
+</body>
+</html>

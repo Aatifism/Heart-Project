@@ -1,0 +1,4058 @@
+Please keep your index finger on the sensor!
+Heart Rate: 97
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 71
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 34
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 35
+Systolic: -11
+Diastolic: -31
+Oxygen Level: 69.00%
+Heart Rate: 38
+Systolic: -3
+Diastolic: -23
+Oxygen Level: 70.00%
+Heart Rate: 41
+Systolic: -11
+Diastolic: -31
+Oxygen Level: 69.00%
+Heart Rate: 52
+Systolic: 3
+Diastolic: -17
+Oxygen Level: 71.00%
+Heart Rate: 71
+Systolic: -1
+Diastolic: -21
+Oxygen Level: 70.00%
+Heart Rate: 109
+Systolic: -6
+Diastolic: -26
+Oxygen Level: 70.00%
+Heart Rate: 194
+Systolic: -5
+Diastolic: -25
+Oxygen Level: 70.00%
+Heart Rate: 238
+Systolic: 5
+Diastolic: -15
+Oxygen Level: 71.00%
+Heart Rate: 233
+Systolic: -1
+Diastolic: -21
+Oxygen Level: 70.00%
+Heart Rate: 227
+Systolic: -8
+Diastolic: -28
+Oxygen Level: 69.00%
+Heart Rate: 214
+Systolic: -19
+Diastolic: -39
+Oxygen Level: 68.00%
+Heart Rate: 209
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 204
+Systolic: -11
+Diastolic: -31
+Oxygen Level: 69.00%
+Heart Rate: 207
+Systolic: -14
+Diastolic: -34
+Oxygen Level: 68.00%
+Heart Rate: 206
+Systolic: 157
+Diastolic: 137
+Oxygen Level: 92.00%
+Heart Rate: 210
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 66
+Systolic: -12
+Diastolic: -32
+Oxygen Level: 69.00%
+Heart Rate: 69
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 73
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 167
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 178
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 184
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 117
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 98
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 91
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 90
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 92
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 93
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 93
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 132
+Systolic: 122
+Diastolic: 102
+Oxygen Level: 87.00%
+Heart Rate: 172
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 196
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 181
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 176
+Systolic: 134
+Diastolic: 114
+Oxygen Level: 89.00%
+Heart Rate: 166
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 157
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 150
+Diastolic: 130
+Oxygen Level: 91.00%
+Heart Rate: 170
+Systolic: -19
+Diastolic: -39
+Oxygen Level: 68.00%
+Heart Rate: 186
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 204
+Systolic: -14
+Diastolic: -34
+Oxygen Level: 68.00%
+Heart Rate: 215
+Systolic: 157
+Diastolic: 137
+Oxygen Level: 92.00%
+Heart Rate: 214
+Systolic: 159
+Diastolic: 139
+Oxygen Level: 92.00%
+Heart Rate: 219
+Systolic: -8
+Diastolic: -28
+Oxygen Level: 69.00%
+Heart Rate: 223
+Systolic: -11
+Diastolic: -31
+Oxygen Level: 69.00%
+Heart Rate: 223
+Systolic: -12
+Diastolic: -32
+Oxygen Level: 69.00%
+Heart Rate: 229
+Systolic: -5
+Diastolic: -25
+Oxygen Level: 70.00%
+Heart Rate: 230
+Systolic: -19
+Diastolic: -39
+Oxygen Level: 68.00%
+Heart Rate: 230
+Systolic: -5
+Diastolic: -25
+Oxygen Level: 70.00%
+Heart Rate: 228
+Systolic: 159
+Diastolic: 139
+Oxygen Level: 92.00%
+Heart Rate: 228
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 228
+Systolic: 134
+Diastolic: 114
+Oxygen Level: 89.00%
+Heart Rate: 212
+Systolic: 0
+Diastolic: -20
+Oxygen Level: 70.00%
+Heart Rate: 209
+Systolic: 157
+Diastolic: 137
+Oxygen Level: 92.00%
+Heart Rate: 203
+Systolic: 156
+Diastolic: 136
+Oxygen Level: 92.00%
+Heart Rate: 204
+Systolic: 157
+Diastolic: 137
+Oxygen Level: 92.00%
+Heart Rate: 200
+Systolic: -6
+Diastolic: -26
+Oxygen Level: 70.00%
+Heart Rate: 198
+Systolic: -1
+Diastolic: -21
+Oxygen Level: 70.00%
+Heart Rate: 206
+Systolic: -18
+Diastolic: -38
+Oxygen Level: 68.00%
+Heart Rate: 201
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 201
+Systolic: -11
+Diastolic: -31
+Oxygen Level: 69.00%
+Heart Rate: 192
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 174
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 123
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 107
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 136
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 137
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 39
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 40
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 43
+Systolic: 156
+Diastolic: 136
+Oxygen Level: 92.00%
+Heart Rate: 46
+Systolic: 118
+Diastolic: 98
+Oxygen Level: 86.00%
+Heart Rate: 51
+Systolic: 134
+Diastolic: 114
+Oxygen Level: 89.00%
+Heart Rate: 30
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 31
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 30
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 31
+Systolic: -13
+Diastolic: -33
+Oxygen Level: 69.00%
+Heart Rate: 205
+Systolic: -3
+Diastolic: -23
+Oxygen Level: 70.00%
+Heart Rate: 210
+Systolic: -4
+Diastolic: -24
+Oxygen Level: 70.00%
+Heart Rate: 213
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 164
+Systolic: 157
+Diastolic: 137
+Oxygen Level: 92.00%
+Heart Rate: 106
+Systolic: 25
+Diastolic: 5
+Oxygen Level: 74.00%
+Heart Rate: 110
+Systolic: 1
+Diastolic: -19
+Oxygen Level: 71.00%
+Heart Rate: 81
+Systolic: 26
+Diastolic: 6
+Oxygen Level: 74.00%
+Heart Rate: 72
+Systolic: 27
+Diastolic: 7
+Oxygen Level: 74.00%
+Heart Rate: 69
+Systolic: -7
+Diastolic: -27
+Oxygen Level: 69.00%
+Heart Rate: 43
+Systolic: -16
+Diastolic: -36
+Oxygen Level: 68.00%
+Heart Rate: 45
+Systolic: -12
+Diastolic: -32
+Oxygen Level: 69.00%
+Heart Rate: 46
+Systolic: -6
+Diastolic: -26
+Oxygen Level: 70.00%
+Heart Rate: 49
+Systolic: -7
+Diastolic: -27
+Oxygen Level: 69.00%
+Heart Rate: 54
+Systolic: 5
+Diastolic: -15
+Oxygen Level: 71.00%
+Heart Rate: 68
+Systolic: 22
+Diastolic: 2
+Oxygen Level: 74.00%
+Heart Rate: 74
+Systolic: -10
+Diastolic: -30
+Oxygen Level: 69.00%
+Heart Rate: 79
+Systolic: 22
+Diastolic: 2
+Oxygen Level: 74.00%
+Heart Rate: 73
+Systolic: 14
+Diastolic: -6
+Oxygen Level: 72.00%
+Heart Rate: 76
+Systolic: 18
+Diastolic: -2
+Oxygen Level: 73.00%
+Heart Rate: 238
+Systolic: 158
+Diastolic: 138
+Oxygen Level: 92.00%
+Heart Rate: 204
+Systolic: -10
+Diastolic: -30
+Oxygen Level: 69.00%
+Heart Rate: 131
+Systolic: 147
+Diastolic: 127
+Oxygen Level: 91.00%
+Heart Rate: 125
+Systolic: 158
+Diastolic: 138
+Oxygen Level: 92.00%
+Heart Rate: 131
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 108
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 101
+Systolic: 1
+Diastolic: -19
+Oxygen Level: 71.00%
+Heart Rate: 164
+Systolic: -15
+Diastolic: -35
+Oxygen Level: 68.00%
+Heart Rate: 170
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 114
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 98
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 84
+Systolic: 153
+Diastolic: 133
+Oxygen Level: 91.00%
+Heart Rate: 78
+Systolic: 155
+Diastolic: 135
+Oxygen Level: 92.00%
+Heart Rate: 77
+Systolic: 155
+Diastolic: 135
+Oxygen Level: 92.00%
+Heart Rate: 77
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 80
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 79
+Systolic: 147
+Diastolic: 127
+Oxygen Level: 91.00%
+Heart Rate: 125
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 196
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 218
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 218
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 232
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 233
+Systolic: 147
+Diastolic: 127
+Oxygen Level: 91.00%
+Heart Rate: 233
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 234
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 235
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 235
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 234
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 236
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 235
+Systolic: 151
+Diastolic: 131
+Oxygen Level: 91.00%
+Heart Rate: 233
+Systolic: 150
+Diastolic: 130
+Oxygen Level: 91.00%
+Heart Rate: 233
+Systolic: 153
+Diastolic: 133
+Oxygen Level: 91.00%
+Heart Rate: 232
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 231
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 232
+Systolic: 153
+Diastolic: 133
+Oxygen Level: 91.00%
+Heart Rate: 233
+Systolic: 155
+Diastolic: 135
+Oxygen Level: 92.00%
+Heart Rate: 231
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 231
+Systolic: -10
+Diastolic: -30
+Oxygen Level: 69.00%
+Heart Rate: 232
+Systolic: -8
+Diastolic: -28
+Oxygen Level: 69.00%
+Heart Rate: 238
+Systolic: -9
+Diastolic: -29
+Oxygen Level: 69.00%
+Heart Rate: 237
+Systolic: 5
+Diastolic: -15
+Oxygen Level: 71.00%
+Heart Rate: 237
+Systolic: 11
+Diastolic: -9
+Oxygen Level: 72.00%
+Heart Rate: 236
+Systolic: 12
+Diastolic: -8
+Oxygen Level: 72.00%
+Heart Rate: 235
+Systolic: 13
+Diastolic: -7
+Oxygen Level: 72.00%
+Heart Rate: 233
+Systolic: 11
+Diastolic: -9
+Oxygen Level: 72.00%
+Heart Rate: 233
+Systolic: 11
+Diastolic: -9
+Oxygen Level: 72.00%
+Heart Rate: 232
+Systolic: 12
+Diastolic: -8
+Oxygen Level: 72.00%
+Heart Rate: 231
+Systolic: 12
+Diastolic: -8
+Oxygen Level: 72.00%
+Heart Rate: 231
+Systolic: 1
+Diastolic: -19
+Oxygen Level: 71.00%
+Heart Rate: 229
+Systolic: -9
+Diastolic: -29
+Oxygen Level: 69.00%
+Heart Rate: 227
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 132
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 130
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 130
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 217
+Systolic: 147
+Diastolic: 127
+Oxygen Level: 91.00%
+Heart Rate: 221
+Systolic: 132
+Diastolic: 112
+Oxygen Level: 88.00%
+Heart Rate: 82
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 84
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 89
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 103
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 124
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 176
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 236
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 236
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 234
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 232
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 230
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 66
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 38
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 39
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 41
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 45
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 55
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 73
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 181
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 221
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 220
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 231
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 230
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 221
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 218
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 217
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 220
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 222
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 234
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 233
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 234
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 231
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 151
+Diastolic: 131
+Oxygen Level: 91.00%
+Heart Rate: 228
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 190
+Systolic: 131
+Diastolic: 111
+Oxygen Level: 88.00%
+Heart Rate: 170
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 66
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 90
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 89
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 92
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 105
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 123
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 147
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 147
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 156
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 184
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 168
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 163
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 163
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 169
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 175
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 192
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 195
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 133
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 177
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 230
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 232
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 206
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 200
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 173
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 165
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 161
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 160
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 179
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 219
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 220
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 222
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 200
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 200
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 185
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 175
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 163
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 143
+Systolic: 134
+Diastolic: 114
+Oxygen Level: 89.00%
+Heart Rate: 147
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 120
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 124
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 131
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 136
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 153
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 189
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 210
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 231
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 235
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 235
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 232
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 199
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 191
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 179
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 177
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 123
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 35
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 238
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 237
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 207
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 200
+Systolic: 133
+Diastolic: 113
+Oxygen Level: 89.00%
+Heart Rate: 188
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 187
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 169
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 168
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 158
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 171
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 189
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 212
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 212
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 231
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 233
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 231
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 221
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 221
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 222
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 231
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 231
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 201
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 195
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 91
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 94
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 100
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 114
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 131
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 198
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 212
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 230
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 48
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 127
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 177
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 130
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 115
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 110
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 109
+Systolic: 149
+Diastolic: 129
+Oxygen Level: 91.00%
+Heart Rate: 104
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 103
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 105
+Systolic: 128
+Diastolic: 108
+Oxygen Level: 88.00%
+Heart Rate: 137
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 145
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 148
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 154
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 157
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 158
+Systolic: 150
+Diastolic: 130
+Oxygen Level: 91.00%
+Heart Rate: 179
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 188
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 64
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 67
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 63
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 62
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 64
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 67
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 69
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 73
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 75
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 80
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 96
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 127
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 143
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 160
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 186
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 183
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 183
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 200
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 205
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 207
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 215
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 212
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 214
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 222
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Please keep your index finger on the sensor!
+Heart Rate: 109
+Systolic: 132
+Diastolic: 112
+Oxygen Level: 88.00%
+Heart Rate: 109
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 114
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 100
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 79
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 82
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 84
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 86
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 90
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 93
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 93
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 96
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 99
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 102
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 105
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 109
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 106
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 105
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 107
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 107
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 107
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 107
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 107
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 55
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 57
+Systolic: 147
+Diastolic: 127
+Oxygen Level: 91.00%
+Heart Rate: 61
+Systolic: 131
+Diastolic: 111
+Oxygen Level: 88.00%
+Heart Rate: 63
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 63
+Systolic: -18
+Diastolic: -38
+Oxygen Level: 68.00%
+Heart Rate: 66
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 81
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 83
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 85
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 88
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 90
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 69
+Systolic: 155
+Diastolic: 135
+Oxygen Level: 92.00%
+Heart Rate: 72
+Systolic: 145
+Diastolic: 125
+Oxygen Level: 90.00%
+Heart Rate: 77
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 90
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 92
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 93
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 97
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 104
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 107
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 113
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 116
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 119
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 122
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 122
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 124
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 120
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 114
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 113
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 114
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 120
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 125
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 128
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 123
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 116
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 111
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 111
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 110
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 110
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 115
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 114
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 113
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 111
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 111
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 116
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 121
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 122
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 122
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 123
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 124
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 124
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 118
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 114
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 112
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 113
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 113
+Systolic: 143
+Diastolic: 123
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 117
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 123
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 131
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 140
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 141
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 141
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 140
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 141
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 141
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 134
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 127
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 125
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 119
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 113
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 116
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 113
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 112
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 111
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 109
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 108
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 57
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 59
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 62
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 65
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 69
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 73
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 79
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 87
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 98
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 123
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 114
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 104
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 107
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 114
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 126
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 130
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 145
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 157
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 167
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 109
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 109
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 122
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 127
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 136
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 124
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 123
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 122
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 119
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 116
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 106
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 101
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 109
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 43
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 42
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 28
+Systolic: 154
+Diastolic: 134
+Oxygen Level: 92.00%
+Heart Rate: 29
+Systolic: 137
+Diastolic: 117
+Oxygen Level: 89.00%
+Heart Rate: 61
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 63
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 66
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 71
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 78
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 98
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 102
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 108
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 115
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 122
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 131
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 138
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 168
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 158
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 166
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 169
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 176
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 170
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 184
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 176
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 162
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 152
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 143
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 134
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 126
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 125
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 114
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 113
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 112
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 113
+Systolic: 135
+Diastolic: 115
+Oxygen Level: 89.00%
+Heart Rate: 110
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 110
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 115
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 189
+Systolic: 142
+Diastolic: 122
+Oxygen Level: 90.00%
+Heart Rate: 189
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 192
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 151
+Systolic: -15
+Diastolic: -35
+Oxygen Level: 68.00%
+Heart Rate: 129
+Systolic: 146
+Diastolic: 126
+Oxygen Level: 90.00%
+Heart Rate: 84
+Systolic: 144
+Diastolic: 124
+Oxygen Level: 90.00%
+Heart Rate: 85
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 89
+Systolic: 130
+Diastolic: 110
+Oxygen Level: 88.00%
+Heart Rate: 72
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 75
+Systolic: 129
+Diastolic: 109
+Oxygen Level: 88.00%
+Heart Rate: 77
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 82
+Systolic: 132
+Diastolic: 112
+Oxygen Level: 88.00%
+Heart Rate: 87
+Systolic: 96
+Diastolic: 76
+Oxygen Level: 83.00%
+Heart Rate: 103
+Systolic: 115
+Diastolic: 95
+Oxygen Level: 86.00%
+Heart Rate: 128
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 42
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 40
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 39
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 149
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 125
+Systolic: 136
+Diastolic: 116
+Oxygen Level: 89.00%
+Heart Rate: 238
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 215
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 202
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 202
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 192
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 190
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 190
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 208
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 234
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 232
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 231
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 229
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 229
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 219
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 184
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 44
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 44
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 46
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 50
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 53
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 59
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 75
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 87
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 96
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 133
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 144
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 160
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 164
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 162
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 173
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 169
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 158
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 153
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 153
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 149
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 151
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 162
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 159
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 167
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 113
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 95
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 61
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 64
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 30
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 30
+Systolic: 126
+Diastolic: 106
+Oxygen Level: 88.00%
+Heart Rate: 136
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 133
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 136
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 148
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 155
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 162
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 177
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 170
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 181
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 178
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 188
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 192
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 212
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 232
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 230
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 226
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 227
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 224
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 225
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 228
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 223
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 217
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 218
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 195
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 192
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 185
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 185
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 191
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 208
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 205
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 222
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 141
+Diastolic: 121
+Oxygen Level: 90.00%
+Heart Rate: 228
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 183
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 169
+Systolic: 138
+Diastolic: 118
+Oxygen Level: 89.00%
+Heart Rate: 169
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 148
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 138
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 130
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 127
+Systolic: 140
+Diastolic: 120
+Oxygen Level: 90.00%
+Heart Rate: 121
+Systolic: 139
+Diastolic: 119
+Oxygen Level: 89.00%
+Heart Rate: 120
+Systolic: 148
+Diastolic: 128
+Oxygen Level: 91.00%
+Heart Rate: 143
+Systolic: 133
+Diastolic: 113
+Oxygen Level: 89.00%
